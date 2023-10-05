@@ -26,4 +26,4 @@ end
 # Example usage:
 morse_message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 decoded_message = decode_message(morse_message)
-puts decoded_message # Output should be "ABOVE FULL OF RUBIES"
+puts decoded_message # Output should be "A BOX FULL OF RUBIES"
