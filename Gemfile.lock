@@ -33,7 +33,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
-  rubocop (>= 1.0, < 2.0)
+  rubocop (>= 1.0, < 2.4)
 
 BUNDLED WITH
-   2.4.10
+   2.4.20
