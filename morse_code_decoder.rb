@@ -24,7 +24,7 @@ def decode_word(morse_word)
 end
 
 # Example usage:
-morse_message2 = '-- .. -.-. .-. --- ...- . .-. ... . / .-.. --- ...- . .-.'
+morse_message2 = '-- .. -.-. .-. --- ...- . .-. ... . .-.. --- ...- . .-.'
 morse_message = '.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...'
 decoded_message = decode_message(morse_message)
 decoded_message2 = decode_message(morse_message2)
